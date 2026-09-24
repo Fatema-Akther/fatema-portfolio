@@ -92,7 +92,7 @@ backend services, and reliable data systems.
 {/* Resume Button */}
 <div className="mt-4">
   <a
-    href="/Fatema_Akther_Resume.pdf"
+    href="/Fatema_Akther_CV.pdf"
     download
     className="
       inline-flex
