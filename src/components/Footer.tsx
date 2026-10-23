@@ -11,12 +11,12 @@ export default function Footer() {
     },
     {
       icon: <FaLinkedinIn />,
-      href: "https://linkedin.com/in/yourprofile",
+      href: "https://www.linkedin.com/feed/",
       color: "hover:text-blue-500",
     },
     {
       icon: <FaGithub />,
-      href: "https://github.com/yourusername",
+      href: "https://github.com/Fatema-Akther",
       color: "hover:text-gray-400",
     },
     {
@@ -48,7 +48,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <p className="text-sm text-gray-400">
-        © {new Date().getFullYear()} Md Mijanur Rahman. All rights reserved.  
+        © {new Date().getFullYear()} Fatema Akther. All rights reserved.  
       </p>
       <p className="text-xs mt-2 text-gray-500">
         Built with ❤️ using Next.js, TypeScript & Tailwind CSS.

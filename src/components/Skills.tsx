@@ -163,7 +163,7 @@ export default function Skills() {
     {
       title: "Databases",
       icon: Database,
-      skills: ["PostgreSQ","MySQL"],
+      skills: ["PostgreSQL","MySQL"],
       iconStyle:
         "text-orange-400 bg-orange-500/10 border-orange-400/20",
       tagStyle:
